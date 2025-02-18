@@ -51,8 +51,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mario1522/Mario1522/output/snake.svg" alt="Snake animation" />
-
-###
